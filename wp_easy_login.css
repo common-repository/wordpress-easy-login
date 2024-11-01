@@ -1,0 +1,8 @@
+#wpelogin_errors li.wpelogin_error {
+	color: #CC0000;
+	}
+	
+.wpelogin_empty {
+	border: 1px #CC0000 solid;
+	}
+	
